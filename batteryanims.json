@@ -1,13 +1,87 @@
 [
-  "https://github.com/wangxinjuan/battery/raw/main/anin7.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin8.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin9.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin10.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin11.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin12.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin13.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin14.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin15.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin16.gif",
-  "https://github.com/wangxinjuan/battery/raw/main/anin17.gif"
-]
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin1.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin1.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin2.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin2.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin4.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin4.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin5.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin5.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin6.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin6.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin7.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin7.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin8.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin8.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin9.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin9.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin10.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin10.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin11.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin11.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin12.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin12.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin13.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin13.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin14.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin14.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin15.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin15.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin16.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin16.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin17.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin17.gif"
+        },
+
+        {
+        "png":"https://github.com/wangxinjuan/battery/raw/main/anin18.png",
+        "gif":"https://github.com/wangxinjuan/battery/raw/main/anin18.gif"
+        }
+        ]
